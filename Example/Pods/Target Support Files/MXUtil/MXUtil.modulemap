@@ -1,0 +1,6 @@
+framework module MXUtil {
+  umbrella header "MXUtil-umbrella.h"
+
+  export *
+  module * { export * }
+}
